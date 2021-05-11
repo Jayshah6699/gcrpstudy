@@ -1,2 +1,2 @@
 # gcrpstudy
-Codes used in the video explanation of gcrp study jam.
+Codes and material mentioned in the gcrp study jam.
