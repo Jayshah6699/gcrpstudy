@@ -90,6 +90,10 @@ This collection provides a list of educational resources for Software Engineers.
 - [APIS and documentation](https://lnkd.in/gWjAsSp) -For Github REST APIs, the best resource is the documentation 
 - [Github tutorial](https://youtu.be/BCQHnlnPusY)
 
+## Open Source Contribution
+
+- [Open Source Guidance](https://www.youtube.com/playlist?list=PLyzHIYrZBplqcJXQ0XWA4gRs0sdh6zWfD) - A Great Resource to follow if you want to get started with Open Source Contribution.
+
 ## Learn regular expressions <img src="https://img.icons8.com/officexs/16/000000/regex.png"/>
 
 - [ziishaned-repository](https://github.com/ziishaned/learn-regex) - This is a resource for learning Regular Expressions in many languages.
