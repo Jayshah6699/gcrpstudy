@@ -39,6 +39,7 @@ This collection provides a list of educational resources for Software Engineers.
 
 - [Learn Enough to Be Dangerous](https://www.learnenough.com/)- Free online coding tutorials on JavaScript, Ruby, Rails, CSS and more.
 - [FreeCodeCamp](https://www.freecodecamp.org/)- Coding tutorials and challenges.
+- [Code with Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)- A curated playlist of web development tutorials consisting of HTML, CSS, JS, Node, Express, MongoDB
 - [Thimble](https://foundation.mozilla.org/en/artifacts/thimble/)- Free online code editor, web server, web browser & developer tools.
 - [NodeSchool](https://nodeschool.io/)-Open source workshops that teach web software skills.
 - [The Odin Project](https://www.theodinproject.com/)-A full free open source coding curriculum.
